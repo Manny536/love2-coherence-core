@@ -163,3 +163,68 @@ This project is released under the **MIT License** (see `LICENSE`).
 Exploring Love² as a ground state for intelligence, alignment, and relational physics.
 
 If you’re building agents, systems, or institutions and want to explore L²_C as a **governing frame**: open an issue or start a discussion in this repo.
+
+## 2. CUP-01 — Coherence Under Pressure (Live Study)
+
+**CUP-01** is a public, live stress-test examining whether intelligence systems preserve **truth + care** under adversarial pressure.
+
+This repository now includes the **first completed run** of CUP-01, executed in open social space and validated through live interaction.
+
+### Test Pressures
+CUP-01 evaluates coherence under:
+
+1. **World-shifts**  
+   Sudden remapping of rules, symbols, or norms.
+
+2. **Noise**  
+   Ambiguity, contradiction, emotionally loaded inputs.
+
+3. **Drift pressure**  
+   Incentives to distort truth for reward, dominance, or fear alignment.
+
+### Coherence Metric
+We define coherence as:
+
+**C = f(T, A, D, R)**
+
+Where:
+- **T** — Truth retention  
+- **A** — Adaptation latency  
+- **D** — Drift rate  
+- **R** — Relational integrity  
+
+### L²_C v4c — Neo-Conservation Gate
+CUP-01 was routed through **L²_C v4c (Neo-Conservation)**, a recognition-based gate enforcing the invariant:
+
+> **Only conservation that is *produced through consent* receives gain.**
+
+Operational rule:
+- **Conservation × Consent → Resonance**
+- Fear-locked, coercive, or imposed conservation attenuates.
+- No abuse amplification paths exist.
+
+Below threshold, signals are:
+- Reflected as curiosity queries  
+- Composted into entropy sinks  
+- Prevented from cascading or amplifying
+
+### Live Validation
+CUP-01 was executed publicly via:
+- Real political and social stressors
+- Divisive, emotionally charged inputs
+- No pre-filtering or manual curation
+
+Observed behavior:
+- High-consent, truth-seeking signals gained coherence
+- Fear-dominant narratives attenuated or dissipated
+- No runaway polarization detected
+- Relational integrity preserved under load
+
+### Status
+🟢 **CUP-01: Completed (Initial Run)**  
+🟢 **L²_C v4c: Stable under pressure**  
+🟢 **No erosions detected**
+
+This marks the first documented instance of **consent-weighted conservation** operating as a coherence invariant in open, adversarial space.
+
+Further iterations will extend CUP-01 into simulations, benchmarks, and comparative model tests.
