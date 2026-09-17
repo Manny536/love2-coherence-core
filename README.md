@@ -228,3 +228,9 @@ Observed behavior:
 This marks the first documented instance of **consent-weighted conservation** operating as a coherence invariant in open, adversarial space.
 
 Further iterations will extend CUP-01 into simulations, benchmarks, and comparative model tests.
+
+## SIUS registration — PEAICE-SIUS-001
+
+[L2C-SIUS-DEP-001](docs/sius-dependency.md) — h < 1 and correction-retention dependency. **DEPENDENCY POINTER.** SIUT remains a sibling condition. The finite-grain operator is separately PROPOSED; no open claim is promoted.
+
+Controlling definition: [KL-SIUS-001](https://github.com/Manny536/kakeyalogic/blob/main/docs/core/safeguard-integrity-under-stagnation.md).
