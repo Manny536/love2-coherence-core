@@ -234,3 +234,7 @@ Further iterations will extend CUP-01 into simulations, benchmarks, and comparat
 [L2C-SIUS-DEP-001](docs/sius-dependency.md) — h < 1 and correction-retention dependency. **DEPENDENCY POINTER.** SIUT remains a sibling condition. The finite-grain operator is separately PROPOSED; no open claim is promoted.
 
 Controlling definition: [KL-SIUS-001](https://github.com/Manny536/kakeyalogic/blob/main/docs/core/safeguard-integrity-under-stagnation.md).
+
+## Evaluator non-sovereignty
+
+[L2C-H-001](docs/evaluator-non-sovereignty.md) documents evaluator authority and correction retention. Metric calibration and operational validity remain OPEN.
